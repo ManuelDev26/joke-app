@@ -1,2 +1,2 @@
 # joke-app
-this is an app to get jokes
+Simple Python app that fetches jokes from JokeAPI
